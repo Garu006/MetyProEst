@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\bin\Debug\net8.0\Notafinal.exe
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\bin\Debug\net8.0\Notafinal.deps.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\bin\Debug\net8.0\Notafinal.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\bin\Debug\net8.0\Notafinal.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\bin\Debug\net8.0\Notafinal.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\refint\Notafinal.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\Notafinal.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\Notafinal\obj\Debug\net8.0\ref\Notafinal.dll
