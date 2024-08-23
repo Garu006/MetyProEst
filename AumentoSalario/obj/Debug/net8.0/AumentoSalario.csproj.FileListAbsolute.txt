@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\bin\Debug\net8.0\AumentoSalario.exe
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\bin\Debug\net8.0\AumentoSalario.deps.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\bin\Debug\net8.0\AumentoSalario.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\bin\Debug\net8.0\AumentoSalario.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\bin\Debug\net8.0\AumentoSalario.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\refint\AumentoSalario.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\AumentoSalario.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\AumentoSalario\obj\Debug\net8.0\ref\AumentoSalario.dll
