@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\bin\Debug\net8.0\MontoPagar.exe
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\bin\Debug\net8.0\MontoPagar.deps.json
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\bin\Debug\net8.0\MontoPagar.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\bin\Debug\net8.0\MontoPagar.dll
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\bin\Debug\net8.0\MontoPagar.pdb
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.dll
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\refint\MontoPagar.dll
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.pdb
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\MontoPagar.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\c#\MontoPagar\obj\Debug\net8.0\ref\MontoPagar.dll
