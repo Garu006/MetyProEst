@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\bin\Debug\net8.0\CalcularCubo.exe
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\bin\Debug\net8.0\CalcularCubo.deps.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\bin\Debug\net8.0\CalcularCubo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\bin\Debug\net8.0\CalcularCubo.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\bin\Debug\net8.0\CalcularCubo.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\refint\CalcularCubo.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\CalcularCubo.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\CalcularCubo\obj\Debug\net8.0\ref\CalcularCubo.dll
