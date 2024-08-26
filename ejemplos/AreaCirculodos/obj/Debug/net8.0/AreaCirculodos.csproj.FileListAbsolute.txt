@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\bin\Debug\net8.0\AreaCirculodos.exe
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\bin\Debug\net8.0\AreaCirculodos.deps.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\bin\Debug\net8.0\AreaCirculodos.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\bin\Debug\net8.0\AreaCirculodos.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\bin\Debug\net8.0\AreaCirculodos.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\refint\AreaCirculodos.dll
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\AreaCirculodos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\MetyProEst\ejemplos\AreaCirculodos\obj\Debug\net8.0\ref\AreaCirculodos.dll
